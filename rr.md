@@ -22,6 +22,11 @@
 
 
 
-[brainct_001.bmp](https://github.com/user-attachments/files/22016316/brainct_001.bmp)
+![brainct_001.bmp](https://github.com/user-attachments/files/22016316/brainct_001.bmp)
+
+
+
+![brainct_001](https://github.com/user-attachments/assets/27670251-b35d-4574-a659-d2e9c46b6475)
+
 
 #### 7. 추적성 매트릭스

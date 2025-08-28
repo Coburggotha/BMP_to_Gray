@@ -22,5 +22,6 @@
 
 
 
+[brainct_001.bmp](https://github.com/user-attachments/files/22016316/brainct_001.bmp)
 
 #### 7. 추적성 매트릭스
